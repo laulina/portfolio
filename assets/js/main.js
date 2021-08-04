@@ -247,9 +247,9 @@ for (var i = 0; i < images.length; i++) {
   }
 }
 
-var span = document.getElementsByClassName("close")[0];
+var modalClose = document.getElementsByClassName("close")[0];
 
-span.onclick = function() {
+modalClose.onclick = function() {
   modal.style.display = "none";
 }
 
