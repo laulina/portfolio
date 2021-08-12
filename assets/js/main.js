@@ -247,7 +247,7 @@ for (var i = 0; i < images.length; i++) {
   }
 }
 
-var modalClose = document.getElementsByClassName("close")[0];
+let modalClose = document.getElementsByClassName("close")[0];
 
 modalClose.onclick = function() {
   modal.style.display = "none";
