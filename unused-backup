@@ -1,0 +1,124 @@
+<section class="carousel">
+  <div class="reel">
+
+    <!-- Banner -->
+
+    <article class="col-4 col-12-mobile special">
+      <div class="side-project-thumbnail-box bugstroke2">
+        <a href="html-css-js.html" class="image featured test-logo"><img
+            src="images/sideprojects/html-css-js/hoverGridThumbnail.png" alt="" class="bugstroke test-thumbnail" /></a>
+      </div>
+      <header>
+        <h3><a href="html-css-js.html">HTML, CSS, JS</a></h3>
+      </header>
+      <p>
+        Inspiring.
+      </p>
+    </article>
+
+    <article class="col-4 col-12-mobile special">
+      <div class="side-project-thumbnail-box bugstroke2">
+        <a href="html-css.html" class="image featured test-logo"><img
+            src="images/sideprojects/html-css/splitShadowThumbnail.png" alt="" class="bugstroke test-thumbnail" /></a>
+      </div>
+      <header>
+        <h3><a href="html-css.html">HTML, CSS </a></h3>
+      </header>
+      <p>
+        Thrilling.
+      </p>
+    </article>
+
+    <article class="col-4 col-12-mobile special">
+      <div class="side-project-thumbnail-box bugstroke2">
+        <a href="isometrics.html" class="image featured test-logo"><img
+            src="images/sideprojects/isometrics/waterfall.jpg" alt="" class="bugstroke test-thumbnail" /></a>
+      </div>
+      <header>
+        <h3><a href="isometrics.html">Isometrics. </a></h3>
+      </header>
+      <p>
+        Exhilarating.
+      </p>
+    </article>
+
+    <article class="col-4 col-12-mobile special">
+      <div class="side-project-thumbnail-box bugstroke2">
+        <a href="animations.html" class="image featured test-logo"><img src="images/sideprojects/animate/camera.png"
+            alt="" class="bugstroke test-thumbnail" /></a>
+      </div>
+      <header>
+        <h3><a href="animations.html">Animations </a></h3>
+      </header>
+      <p>
+        Moving.
+      </p>
+    </article>
+
+    <article class="col-4 col-12-mobile special">
+      <div class="side-project-thumbnail-box bugstroke2">
+        <a href="adobedraw.html" class="image featured test-logo"><img src="images/sideprojects/adobedraw/portrait.jpg"
+            alt="" class="bugstroke test-thumbnail" /></a>
+      </div>
+      <header>
+        <h3><a href="adobedraw.html">Adobe Draw </a></h3>
+      </header>
+      <p>
+        Invigorating.
+      </p>
+    </article>
+
+    <article class="col-4 col-12-mobile special">
+      <div class="side-project-thumbnail-box bugstroke2">
+        <a href="artsquad.html" class="image featured test-logo"><img src="images/sideprojects/artsquad/bookest.png"
+            alt="" class="bugstroke test-thumbnail" /></a>
+      </div>
+      <header>
+        <h3><a href="artsquad.html">Art Squad </a></h3>
+      </header>
+      <p>
+        Gripping.
+      </p>
+    </article>
+
+    <article class="col-4 col-12-mobile special">
+      <div class="side-project-thumbnail-box bugstroke2">
+        <a href="prototypes.html" class="image featured test-logo"><img
+            src="images/sideprojects/prototypes/icelandVacation.png" alt="" class="bugstroke test-thumbnail" /></a>
+      </div>
+      <header>
+        <h3><a href="prototypes.html">Prototypes </a></h3>
+      </header>
+      <p>
+        Stimulating.
+      </p>
+    </article>
+
+    <article class="col-4 col-12-mobile special">
+      <div class="side-project-thumbnail-box bugstroke2">
+        <a href="procreate.html" class="image featured test-logo"><img src="images/sideprojects/pc/comics.png" alt=""
+            class="bugstroke test-thumbnail" /></a>
+      </div>
+      <header>
+        <h3><a href="procreate.html">Procreate </a></h3>
+      </header>
+      <p>
+        Compelling.
+      </p>
+    </article>
+
+    <article class="col-4 col-12-mobile special">
+      <div class="side-project-thumbnail-box bugstroke2">
+        <a href="photogallery.html" class="image featured test-logo"><img
+            src="images/sideprojects/photography/butterfly.jpg" alt="" class="bugstroke test-thumbnail" /></a>
+      </div>
+      <header>
+        <h3><a href="photogallery.html">Photography </a></h3>
+      </header>
+      <p>
+        Intoxicating.
+      </p>
+    </article>
+
+  </div>
+</section>
